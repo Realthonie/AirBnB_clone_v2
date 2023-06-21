@@ -29,7 +29,7 @@ article {
 	flex-direction: row;
 	position: relative;
 
-	height: 80px;	
+	height: 80px;
 	width: 100%;
 }
 
@@ -65,7 +65,9 @@ article {
 	margin-bottom: 20px;
 }
 
-.max_guest, .number_rooms, .number_bathrooms {
+.max_guest,
+.number_rooms,
+.number_bathrooms {
 	display: inline-block;
 	width: 100px;
 	text-align: center;
@@ -74,7 +76,7 @@ article {
 
 .user {
 	margin-top: 5px;
-	margin-bottom: 5px;	
+	margin-bottom: 5px;
 }
 
 .description {
@@ -165,8 +167,8 @@ article h3 {
 	background-image: url("../images/icon_bed.png");
 	background-repeat: no-repeat;
 	background-position: center;
-    width: 50px;
-    height: 50px;
+	width: 50px;
+	height: 50px;
 }
 
 .bath_icon {
@@ -174,8 +176,8 @@ article h3 {
 	background-image: url("../images/icon_bath.png");
 	background-repeat: no-repeat;
 	background-position: center;
-    width: 50px;
-    height: 50px;
+	width: 50px;
+	height: 50px;
 }
 
 .tv_icon {
@@ -190,19 +192,19 @@ article h3 {
 
 .wifi_icon {
 	display: inline-block;
-    background-image: url("../images/icon_wifi.png");
-    background-size: cover;
+	background-image: url("../images/icon_wifi.png");
+	background-size: cover;
 	width: 20px;
-    height: 20px;
+	height: 20px;
 
 	margin-right: 10px;
 }
 
 .pet_icon {
 	display: inline-block;
-    background-image: url("../images/icon_pets.png");
+	background-image: url("../images/icon_pets.png");
 	background-size: cover;
-    width: 20px;
+	width: 20px;
 	height: 20px;
 
 	margin-right: 10px;
